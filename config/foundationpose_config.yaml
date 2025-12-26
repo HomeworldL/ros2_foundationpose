@@ -1,0 +1,18 @@
+foundationpose_node:
+  ros__parameters:
+    device: "cuda:0"
+    # obj_file: "/home/ccs/ros2/vision_ws/src/ros2_foundationpose/assets/cube/cube.obj"
+    # obj_file: "/home/ccs/ros2/vision_ws/src/ros2_foundationpose/assets/mustard0/mustard0.obj"
+    # obj_file: "/home/ccs/github/FoundationPoseROS2/FoundationPose/demo_data/mustard0/mesh/textured_simple.obj"
+    obj_file: "/home/ccs/ros2/vision_ws/src/ros2_foundationpose/assets/006_mustard_bottle/inertia.obj"
+    obj_name: "mustard_bottle"
+
+    image_topic: "/camera/camera/color/image_raw"
+    depth_topic: "/camera/camera/aligned_depth_to_color/image_raw"
+    camera_info_topic: "/camera/camera/color/camera_info"
+    # image_compressed: true
+    # depth_compressed: false
+
+    display: False
+    
+

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>ros2_foundation_pose</name>
+  <name>ros2_foundationpose</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
   <maintainer email="60728884+HomeworldL@users.noreply.github.com">ccs</maintainer>

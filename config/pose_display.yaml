@@ -1,0 +1,10 @@
+pose_display_node:
+  ros__parameters:
+    obj_file: "/home/ccs/ros2/vision_ws/src/ros2_foundationpose/assets/006_mustard_bottle/inertia.obj"
+    obj_name: "mustard_bottle"
+
+    image_topic: "/camera/camera/color/image_raw"
+    depth_topic: "/camera/camera/aligned_depth_to_color/image_raw"
+    camera_info_topic: "/camera/camera/color/camera_info"
+    
+

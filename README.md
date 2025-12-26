@@ -51,6 +51,8 @@ pip install --no-index --no-cache-dir pytorch3d \
 pip uninstall -y setuptools
 pip install setuptools==69.5.1
 
+bash build_all_conda.sh
+
 # Install nvdiffrast
 
 cd <other_dir>

@@ -147,3 +147,4 @@ ros2 launch ros2_foundationpose foundationpose.launch.py
 ## Acknowledgements
 * [FoundationPose](https://github.com/NVlabs/FoundationPose)
 * [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
+* [FoundationPoseROS2](https://github.com/ammar-n-abbas/FoundationPoseROS2)
